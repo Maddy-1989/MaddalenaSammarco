@@ -1,0 +1,72 @@
+/********************* COMMENTI ************************/
+
+body{
+	font-family: Futura LT Medium, Helvetica, Arial;
+	margin: o;
+}
+
+a{
+	color: orange; 
+	text-decoration: none;
+}
+
+/********************* HEADER ************************/
+#header {
+	background-color: #f2f2f2;
+}
+
+h1{
+	font-size: 36px; color: black;
+	margin: 0;
+	text-align: center;
+	padding: 15px 0 0 0;
+}
+h2{
+	color: black;
+	margin: 0;
+	text-align: center;
+}
+
+#nav{
+	background-color: #f2f2f2;
+	text-align: center;
+	list-style-type: none;
+}
+
+#nav li{
+	display: inline-block;
+	padding: 8px 30px 8px 30px;
+}
+
+#nav li a {
+	color: black;
+}
+
+#nav li:hover {
+     background-color: orange;
+}
+/********************* CONTENT ************************/
+
+img { width: 500px;
+
+}
+#content {
+	width: 600px;
+    margin: 30px auto;
+    text-align: center;
+}
+
+#content h3 {
+	border-bottom: orange solid 1px;
+}
+
+
+
+#professional {
+	width: 600px;
+    margin: 30px auto;
+}
+
+#professional h3 {
+	border-bottom: orange solid 1px;
+}
